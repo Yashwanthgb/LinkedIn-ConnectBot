@@ -5,18 +5,6 @@ LinkedIn:   https://www.linkedin.com/in/yash-g-2412241bb
 Copyright (C) 2024 Yashwanth G
 """
 
-'''
-Author:     Datta Lohith Gannavarapu
-LinkedIn:   https://www.linkedin.com/in/datta-lohith/
-
-Copyright (C) 2024 Datta Lohith Gannavarapu
-
-License:    GNU Affero General Public License
-            https://www.gnu.org/licenses/agpl-3.0.en.html
-            
-GitHub:     https://github.com/Datta-Lohith/Connect-Bot
-'''
-
 
 import pyautogui
 pyautogui.FAILSAFE = False
